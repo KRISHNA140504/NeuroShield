@@ -38,8 +38,13 @@
     <h2>📷 Before & After</h2>
 <div class="images">
     <img src="https://github.com/user-attachments/assets/c372b228-3664-452e-8107-a3df56908120" alt="Before Dashboard">
+ <hr/>
     <img src="https://github.com/user-attachments/assets/25b0b2f7-68ed-4910-b889-db2e5eb9ee8b" alt="After Dashboard">
+ <hr/>
+  <img width="1880" height="632" alt="Screenshot 2025-08-08 031305" src="https://github.com/user-attachments/assets/da39a9d8-92f7-4833-8d6f-9b0c2e641e02" />
 </div>
+
+
 
 </section>
 

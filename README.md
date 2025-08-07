@@ -36,12 +36,11 @@
 
 <section>
     <h2>📷 Before & After</h2>
-    <div class="images">
-        <img src="<img width="1898" height="916" alt="Screenshot 2025-08-08 024217" src="https://github.com/user-attachments/assets/c372b228-3664-452e-8107-a3df56908120" />
-" alt="Before Dashboard">
-        <img src="<img width="1885" height="920" alt="Screenshot 2025-08-08 031253" src="https://github.com/user-attachments/assets/25b0b2f7-68ed-4910-b889-db2e5eb9ee8b" />
-" alt="After Dashboard">
-    </div>
+<div class="images">
+    <img src="https://github.com/user-attachments/assets/c372b228-3664-452e-8107-a3df56908120" alt="Before Dashboard">
+    <img src="https://github.com/user-attachments/assets/25b0b2f7-68ed-4910-b889-db2e5eb9ee8b" alt="After Dashboard">
+</div>
+
 </section>
 
 <footer>

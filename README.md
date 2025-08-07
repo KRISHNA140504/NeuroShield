@@ -42,6 +42,9 @@
     <img src="https://github.com/user-attachments/assets/25b0b2f7-68ed-4910-b889-db2e5eb9ee8b" alt="After Dashboard">
  <hr/>
   <img width="1880" height="632" alt="Screenshot 2025-08-08 031305" src="https://github.com/user-attachments/assets/da39a9d8-92f7-4833-8d6f-9b0c2e641e02" />
+ <hr/>
+ <img width="1897" height="912" alt="Screenshot 2025-08-08 031316" src="https://github.com/user-attachments/assets/50839907-6fd6-4214-b235-3f444a23bcae" />
+<hr/>
 </div>
 
 

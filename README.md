@@ -1,5 +1,5 @@
 # NeuroShield
-AI-powered real-time cyber threat detection &amp; defense system with ML, automated IP blocking, and interactive dashboard.
+<h3>AI-powered real-time cyber threat detection &amp; defense system with ML, automated IP blocking, and interactive dashboard.<h3/>
 <br/>
 🛡️ NeuroShield — AI-Powered Cyber Threat Detection & Response
 NeuroShield is a real-time cyber threat detection dashboard that uses Machine Learning + Flask + React to monitor system activities, detect malicious traffic, and take automated defense actions.

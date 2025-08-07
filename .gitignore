@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+neuroshield_env/
+sim_env/
+__pycache__/
+*.pyc
+
+# Database
+*.db
+*.sqlite
+
+# Exports
+exports/
+logs/
+*.csv
+*.json
+
+# Environment variables
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+build/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock

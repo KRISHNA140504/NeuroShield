@@ -1,0 +1,6 @@
+@echo off  
+echo Starting NeuroShield Attack Simulators...
+cd simulators
+echo Running comprehensive attack simulation...
+python run_all_simulations.py
+pause
